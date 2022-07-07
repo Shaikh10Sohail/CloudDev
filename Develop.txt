@@ -1,2 +1,3 @@
 Develop
 string added
+new cloning
