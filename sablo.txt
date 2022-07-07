@@ -1,10 +1,14 @@
+<<<<<<< HEAD
+///sablo////
+SOHAIL
+
+
+developer ...///
+=======
 ///sablo//// 
 
 
 
-
-
-
-
-
 server down
+>>>>>>>master
+
